@@ -6,6 +6,7 @@ import Util from './util'
  * Bootstrap (v4.0.0): alert.js
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  * --------------------------------------------------------------------------
+ * Changes by Sreehari
  * Edited by Jaya nandana
  */
 
