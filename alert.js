@@ -7,6 +7,7 @@ import Util from './util'
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  * --------------------------------------------------------------------------
  * Changes by Sreehari
+ * Edited by Jaya nandana
  */
 
 const Alert = (($) => {
